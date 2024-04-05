@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "513V8aig9hMCIB0N/r3A1pGIPaQFTV2vtQUDOdMcH4s=",
+  "Source": "Redis_Cashing",
+  "BasePath": "_content/Redis_Cashing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "MKDC6z5yPxc7Ly9GS/lozt7sgzMhf6KYLiA7Q42IYfF9dF+eRJKMpZ0yWMZ0TJJQLTpvgt7mmGwGw/uQaU1dAg==",
+  "success": true,
+  "projectFilePath": "/Volumes/Mac/Advance-C#/Redis/Redis_Cashing/Redis_Cashing/Redis_Cashing.csproj",
+  "expectedPackageFiles": [
+    "/Users/rufat/.nuget/packages/microsoft.aspnetcore.openapi/7.0.17/microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.extensions.caching.stackexchangeredis/7.0.0/microsoft.extensions.caching.stackexchangeredis.7.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/stackexchange.redis/2.7.33/stackexchange.redis.2.7.33.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

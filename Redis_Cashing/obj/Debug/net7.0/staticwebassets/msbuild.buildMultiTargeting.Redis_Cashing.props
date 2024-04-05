@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Redis_Cashing.props" />
+</Project>

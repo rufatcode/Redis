@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcujAiU6r4NgjOFSnrQJRIoUko7425ifvyI2wNFijs4A1OHWx/vzwf4d/ugcPrlz0H+YWp8uVqHDcwtfw2GPvg==",
+  "success": true,
+  "projectFilePath": "/Volumes/Mac/Advance-C#/Redis/Redis_Cashing/Redis.Pub.Sub.Publisher/Redis.Pub.Sub.Publisher.csproj",
+  "expectedPackageFiles": [
+    "/Users/rufat/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/stackexchange.redis/2.7.33/stackexchange.redis.2.7.33.nupkg.sha512",
+    "/Users/rufat/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

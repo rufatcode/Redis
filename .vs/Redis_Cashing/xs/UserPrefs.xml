@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6DE6CE82-B1C0-41C0-902F-8E2E793169D1}|https">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Redis_Cashing" expanded="True">
+            <Node name="Redis.Pub.Sub.Consumer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Redis.Pub.Sub.Publisher" expanded="True" />
+            <Node name="Redis_Cashing" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Redis.Pub.Sub.Consumer FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Redis__Cashing PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Redis.Pub.Sub.Publisher FirstBuild="True" />
+</Properties>
