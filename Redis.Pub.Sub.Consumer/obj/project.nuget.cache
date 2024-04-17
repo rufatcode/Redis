@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "E7pZde34aXOinVjD/fLvyN5dm33NRSZWj8+5IgJqomSF0jhoE1+yXTrKGYGBLcMJJ3Bsj0ZCufnadYCErQ3O8A==",
+  "dgSpecHash": "XzUvQE2SdP/0cv2Fp0V6LBI4vE3OZ8YL3hGTs3tnYZn12AzcsMzs2Xu3AKk5fojFHgiWL7QfL7V/DAry7RmusA==",
   "success": true,
   "projectFilePath": "/Volumes/Mac/Advance-C#/Redis/Redis_Cashing/Redis.Pub.Sub.Consumer/Redis.Pub.Sub.Consumer.csproj",
   "expectedPackageFiles": [
